@@ -1,1 +1,1 @@
-vless://1b0921ec-4081-11f1-8f71-977882cbbbe0@gr2.vpnjantit.com:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=hCBWU2tUrOeBJPKkXCy5X3x4x42F_tdvcB-ygj83wTI&sid=25250b45ea088b4d&flow=xtls-rprx-vision#NurlG-vpnjantit.com
+
